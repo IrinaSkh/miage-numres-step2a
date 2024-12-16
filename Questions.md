@@ -11,33 +11,34 @@ Réponse: un int qui correspond à la note.
 
 # Q4 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM ?
 Réponse:
+La RSS utilisée par le processus quarkus-run.jar est 208368 KB.
 
 # Q5: Quel est le temps et la taille de la réponse  de la méthode qui liste les questions
-Temps:
-Taille:
+Time: 23.577328s
+Size: 883 bytes
 
 # Q6: Quel est le temps et la taille de la réponse  de la méthode qui liste les propositions d'une question
-Temps:
-Taille:
+Time: 8.092438s
+Size: 609 bytes
 
 # Q7: Quel est le temps et la taille de la réponse  de la méthode qui évalue les réponses
-Temps:
-Taille:
+Time: 0.018180s
+Size: 1 bytes
 
 # Q8 : Empreinte mémoire en mode natif ?
-Réponse:
+Réponse:  79020 KB.
 
 # Q9: Temps et  taille  réponse   liste les questions
-Temps:
-Taille:
+Time: 26.502291s
+Size: 883 bytes
 
 # Q10: Temps et  taille  réponse  liste des propositions
-Temps:
-Taille:
+Time: 15.997682s
+Size: 609 bytes
 
 # Q11: Temps et  taille  réponse  évaluation les réponses
-Temps:
-Taille:
+Time: 0.002211s
+Size: 1 bytes
 
 # Q12:  Proposition 1
 Description:
